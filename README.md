@@ -6,6 +6,10 @@ Activeにしている間、Google検索結果を日本語のページのみに�
 
 Active、非Activeはアイコンをクリックすることで切り替えられます。
 
+### Special thanks
+
+[GitHub - amazedkoumei/chrome-ext-ato-ichinen: Chrome extension adding google search option automatically](https://github.com/amazedkoumei/chrome-ext-ato-ichinen)
+
 ## インストール / Install
 
 Chrome Web Storeで公開しています。
@@ -35,8 +39,6 @@ Pull Request / Pull Request
     $ npm install -g grunt-cli (既に install 済みの場合は不要)
     $ npm install
     $ grunt test
-
-
 
 ## ライセンス / License
 
